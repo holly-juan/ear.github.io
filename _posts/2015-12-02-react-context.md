@@ -1,6 +1,7 @@
 ---
 layout: post
 title: React Context
+category: 技术
 date: 2015-12-02
 comments: true
 ---
