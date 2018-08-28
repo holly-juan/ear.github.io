@@ -34,8 +34,8 @@ tag_layout: "_layouts/tag.html"
 
 #不使用gems库中的jekyll-paginate-category
 #使用基于jekyll-paginate改写的的栏目分页插件，所以jekyll-paginate还需要用上。
-#gems: [jekyll-paginate,jekyll-paginate-category]
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-paginate-category]
+# gems: [jekyll-paginate]
 
 collections:
   docs:
