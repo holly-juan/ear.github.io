@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 期待
-category: 生活
+category: web
 date: 2016-02-01
 comments: true
 ---
