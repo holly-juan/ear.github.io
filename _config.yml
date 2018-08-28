@@ -7,10 +7,10 @@ github:
 author: "holly-juan"
 email: winfirm#163.com
 name: "holly Blog"
-url: http://ear.github.io
+url: http://holly-juan.github.io
 username: holly-juan
 baseurl: /
-domain: ear.github.io
+domain: holly-juan.github.io
 
 all_categories: [
   ["android", "Android开发","/android/index.html"], 
