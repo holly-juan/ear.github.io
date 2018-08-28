@@ -1,7 +1,6 @@
 ---
 layout: post
 title: React Context
-category: web
 date: 2015-12-02
 comments: true
 ---
