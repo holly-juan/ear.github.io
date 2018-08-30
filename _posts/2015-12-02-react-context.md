@@ -6,7 +6,7 @@ date: 2015-12-02
 comments: true
 ---
 
-了解下React Context这个不为人知的内容
+了解下React Context这个不为人知的内容<!-- more -->  
 
 
 ####1、为什么引入？
