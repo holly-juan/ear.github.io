@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: 出彩的女人
 category: linux
 date: 2016-01-06
