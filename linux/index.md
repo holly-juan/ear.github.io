@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: post
 title: 出彩的女人
 category: linux
 date: 2016-01-06
 ---
+
+生活感悟<!-- more -->  
 
 刚在楼梯间碰到了市场部副总裁高燕，一身时髦的打扮，精干的发型，嘴里哼着小调，顿时感觉她的生活是如此精彩！
 
