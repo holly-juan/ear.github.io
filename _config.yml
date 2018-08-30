@@ -25,7 +25,7 @@ all_categories: [
   ["about", "关于","/about.html"]
 ]
 
-paginate: 10 
+paginate: 6
 paginate_path: "index_:num"
 
 index_layout: "index.html"
